@@ -453,7 +453,9 @@ footer span {
 @media (width > 980px) and (orientation: portrait) {
     #toast {
         width: 94vw;
-        left: 3vw
+        left: 3vw;
+        align-content: center;
+
     }
 }
 
@@ -493,11 +495,15 @@ footer span {
 /* start media 980 */
 @media screen and (max-width: 980px) {
     #home h1 {
-        font-size: 30px;
+        font-size: 15px;
     }
 
     h2 {
-        font-size: 20px;
+        font-size: 10px;
+    }
+
+    h3 {
+        font-size: 15px;
     }
 
 }
@@ -512,7 +518,7 @@ footer span {
     }
 
     #home h1 {
-        font-size: 20px;
+        font-size: 15px;
     }
 
     #home {
@@ -533,7 +539,7 @@ footer span {
 
 @media screen and (max-width: 440px) {
     h4 {
-        padding-bottom: 15px;
+        padding-bottom: 10px;
         line-height: 1.5em;
     }
 
@@ -555,7 +561,7 @@ footer span {
 /* start media 360 */
 @media screen and (max-width: 360px) {
     #home h1 {
-        font-size: 15px;
+        font-size: 7px;
         line-height: 1.5em;
     }
 }
