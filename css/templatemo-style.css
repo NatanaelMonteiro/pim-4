@@ -493,11 +493,11 @@ footer span {
 /* start media 980 */
 @media screen and (max-width: 980px) {
     #home h1 {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     h2 {
-        font-size: 30px;
+        font-size: 20px;
     }
 
 }
@@ -512,7 +512,7 @@ footer span {
     }
 
     #home h1 {
-        font-size: 40px;
+        font-size: 20px;
     }
 
     #home {
@@ -555,7 +555,7 @@ footer span {
 /* start media 360 */
 @media screen and (max-width: 360px) {
     #home h1 {
-        font-size: 30px;
+        font-size: 15px;
         line-height: 1.5em;
     }
 }
