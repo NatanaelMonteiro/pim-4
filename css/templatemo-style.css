@@ -346,14 +346,14 @@ h3.about-title {
     margin-bottom: 20px;
     max-width: 700px;
     padding: 20px;
-    transition: transform 0.3s ease;
-    transition: background-color .3s linear;
+    transition: transform 0.5s ease;
+    transition: background-color 0.5s linear;
 }
 
 #about .about-wrapper:hover {
     cursor: pointer;
     transform: scale(1.02);
-    background-color: #e9f3f6;
+    background-color: #e4d4ee;
 }
 
 #about .about-wrapper h3 {
